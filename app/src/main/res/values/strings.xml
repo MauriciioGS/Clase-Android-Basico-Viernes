@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ClaseViernes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola desde fragment 2</string>
+    <string name="boton_2">Boton 2</string>
+</resources>
